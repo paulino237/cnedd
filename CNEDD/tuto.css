@@ -1,0 +1,65 @@
+body{
+	background-color: white;
+	font-family : 'montserat',sans-serif;
+	color: black;
+	text-align: center;
+	border-bottom: 30px;
+	box-shadow: 10px 10px 10px lime;
+}
+h1	{
+    background-color: black;
+    color: gray;
+	background-position: 20px;
+	margin: 30;
+	padding:30;
+	border-bottom:10px;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 60px;
+	align-items: center;
+	font-family: calibri,Arial,sans-serif;
+	text-shadow: 100px 10px 10px gray;
+	box-shadow: 20px 15px 15px gray;
+	}
+	.p1{
+		font-style: italic;
+		font-weight: bold;
+		font-family: calibri,Arial,sans-serif;
+		font-size: 22px;
+		box-shadow: 20px 15px 15px gray;
+	}
+
+	.p2{
+		font-style: italic;
+		font-weight: bold;
+		font-family: calibri,Arial,sans-serif;
+		font-size: 22px;
+		box-shadow: 20px 15px 15px gray;
+	}
+	.diablesse{
+		width: 150px;
+		float:right;
+		padding: 5px;
+		border:2px
+		solid black;
+	}
+
+	footer{
+		background-color: black;
+		color: white;
+		margin: 20px;
+		padding:20px;
+		height: 200px;
+	    width: 1200px;
+	    font-size: 100px;
+	}
+
+
+
+
+
+
+
+	@media screen and ( width: 300px){
+
+}
